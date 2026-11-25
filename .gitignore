@@ -1,0 +1,4 @@
+*.o
+boardgame
+*.sav
+.DS_Store
